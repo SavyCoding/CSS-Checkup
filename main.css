@@ -1,0 +1,26 @@
+.red_text {
+    color: darkorange;
+}
+
+.fontandbackround {
+    background-color: aqua;
+}
+
+.fontandbackround {
+    font-style: italic;
+}
+
+#font {
+    padding-left: 20px;
+}
+
+.red_text {
+    border-style: solid;
+    border-radius: 3px;
+    border-color: black;
+}
+
+#img {
+    width: 400px;
+    height: 400px;
+}
